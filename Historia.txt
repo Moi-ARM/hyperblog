@@ -3,4 +3,4 @@ Esto es un archivo de texto común y corriente
 todo lo que está escrito es para practicar
 esta es una nueva linea bien linda
 
-eso es todo basicamente.
+eso es todo normalmente.
